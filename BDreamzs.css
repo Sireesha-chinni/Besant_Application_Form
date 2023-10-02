@@ -1,0 +1,111 @@
+.main{
+    border: 1px solid black;
+    width: 900px;
+    margin: auto;
+    padding: 2px;
+}
+.main1 img{
+    width: 100px;
+    height: 100px;
+}
+.main1 img h1{
+    display: inline-flex;
+}
+.main1 h1{
+    text-align: center;
+    display: inline;
+    margin: 10%;
+}
+.main1 h3{
+    text-align: center;
+    font-weight: 100;
+    font-size: 15px;
+    font-style: italic;
+}
+.main2 h4{
+    text-align: center;
+    font-weight: 100;
+}
+.main2 h6{
+    margin: 10px;
+    font-size: 17px;
+}
+.main3 h3{
+    text-align: center;
+    font-size: 17px;
+}
+.main31{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin-top: -3%;
+    margin-right: 5%;
+    display:inline-block;
+    float: right;
+}
+.main4 h3{
+    font-weight:bold;
+    margin-top: 15%;
+    font-size: 110%;
+    margin-left: 10px;
+}
+.main4 p{
+    margin-left: 10px;
+}
+.main5{
+    margin-left: 10px;
+}
+.main5 input{
+    border:none;
+    border-bottom: 1px solid black;
+    width: 500px;
+}
+.main5 p{
+    font-weight: bold;
+}
+.main6 p{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.main6 h4{
+    margin-left: 50px;
+    font-weight: 100;
+    font-size: 90%;
+}
+.main6 li{
+    margin-left: 50px;
+    font-weight: 100;
+    font-size: 90%;
+    line-height: 30px;
+    list-style-type:circle;
+}
+.main6 h5{
+    text-align: center;
+    font-size: 100%;
+    font-weight: 100;
+}
+.main6 h6{
+    float: right;
+    font-size: 100%;
+    font-weight: 100;
+    margin-right: 5%;
+    margin-top: -2%;
+}
+.main7 img{
+    width: 200px;
+}
+.main7{
+    text-align: center;
+    margin-bottom: 0px;
+}
+.main7 p{
+    margin-left: 180px;
+}
+.main7 table{
+    margin-left: 250px;
+    margin-top: 2%;
+}
+.main8{
+    text-align: center;
+}
